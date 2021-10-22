@@ -43,9 +43,9 @@ There are 3 versions of the EncoderPad.  Only 2 support KMK. The Basic version i
 </table>
 
 
-kb_rp2040.py is designed to work with the [EncoderPad RP2040 CircuitPython UF2](https://circuitpython.org/board/jpconstantineau_encoderpad_rp2040/)
-kb_BlueMicro840.py is designed to work with the [BlueMicro840 CircuitPython UF2](https://circuitpython.org/board/bluemicro840/)
-kb_ProMicroRP2040.py is designed to work with the [Sparkfun Pro Micro RP2040 CircuitPython UF2](https://circuitpython.org/board/sparkfun_pro_micro_rp2040/)
+* **kb_RP2040.py** is designed to work with the [EncoderPad RP2040 CircuitPython UF2](https://circuitpython.org/board/jpconstantineau_encoderpad_rp2040/)
+* **kb_BlueMicro840.py** is designed to work with the [BlueMicro840 CircuitPython UF2](https://circuitpython.org/board/bluemicro840/)
+* **kb_ProMicroRP2040.py** is designed to work with the [Sparkfun Pro Micro RP2040 CircuitPython UF2](https://circuitpython.org/board/sparkfun_pro_micro_rp2040/)
 
 Retailers (USA)  
 [BlueMicro Store on Tindie - Wireless/Pro](https://www.tindie.com/products/jpconstantineau/wireless-video-editing-macropad-and-jog-wheel/)
